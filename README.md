@@ -1,5 +1,5 @@
 # Weird_bootloader
-!(yay)[sample.png]
+![yay](sample.png)
 A sample MBR bootloader loading itself and printing some message on screen.
 
 Apparently I made this on April 2022 (when I was 16), and having found this on my hard drive, I am uploading becasue I have no idea what in the world I made this for.
